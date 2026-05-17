@@ -9,7 +9,7 @@ tagline: "A rules-light 40k fan game you can download for free, non-commercial."
 blurb: "A 132-page tabletop RPG of investigation in the Warhammer 40k universe, Liminal Horror rules. Includes player manuals, character sheets, and clue handouts"
 cover: /assets/images/IA-OI-Facilitator.png
 links:
-  - { label: "Download Package",   url: "https://example.com/dust-and-iron",                      featured: true }
+  - { label: "Download Files",   url: "https://drive.google.com/drive/folders/1QVkdDFDnGq9AHwVVVoOq48T3OyvbBKRB?usp=sharing",                      featured: true }
   - { label: "DriveThruRPG", url: "https://www.drivethrurpg.com/" }
   - { label: "itch.io",      url: "https://itch.io/" }
 ---
@@ -32,3 +32,11 @@ What you find there will change the course of humanity's future.
 **Inspirations:** a mash-up of the games Dead Space, Resident Evil, Signalis, SOMA. TTRPG influences are [The Bureau by Goblin Archives](https://goblinarchives.itch.io/the-bureau), [ARC by Momatoes](https://momatoes.itch.io/arc), [PRESSURE by Osprey Games](https://www.drivethrurpg.com/en/product/459432/pressure-industrial-science-fiction-roleplaying)
 
 > This work is not for commercial release. This work is unofficial fan material and is an independent production by Maxfield J Weir and is not affiliated with Goblin Archives LLC or Games Workshop. Liminal Horror is © by Goblin Archives LLC. Warhammer 40,000 is © by Games Workshop. No challenge to ownership is intended. No AI was used.
+
+**Screenshots**
+![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI-1-Medium.png' | relative_url }})
+![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI-2-Medium.png' | relative_url }})
+![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI-3-Medium.png' | relative_url }})
+![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI-4-Medium.png' | relative_url }})
+![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI-5-Medium.png' | relative_url }})
+![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI-6-Medium.png' | relative_url }})
