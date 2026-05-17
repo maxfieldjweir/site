@@ -34,9 +34,9 @@ What you find there will change the course of humanity's future.
 > This work is not for commercial release. This work is unofficial fan material and is an independent production by Maxfield J Weir and is not affiliated with Goblin Archives LLC or Games Workshop. Liminal Horror is © by Goblin Archives LLC. Warhammer 40,000 is © by Games Workshop. No challenge to ownership is intended. No AI was used.
 
 **Screenshots**
-![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI-1-Medium.png' | relative_url }})
-![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI-2-Medium.png' | relative_url }})
-![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI-3-Medium.png' | relative_url }})
-![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI-4-Medium.png' | relative_url }})
-![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI-5-Medium.png' | relative_url }})
-![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI-6-Medium.png' | relative_url }})
+![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI/IA-OI-1.png' | relative_url }})
+![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI/IA-OI-2.png' | relative_url }})
+![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI/IA-OI-3.png' | relative_url }})
+![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI/IA-OI-4.png' | relative_url }})
+![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI/IA-OI-5.png' | relative_url }})
+![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI/IA-OI-6.png' | relative_url }})
