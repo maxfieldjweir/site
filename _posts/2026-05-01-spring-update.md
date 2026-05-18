@@ -3,7 +3,7 @@ layout: post
 title: "Spring update"
 date: 2026-05-01 08:00:00 +0100
 category: updates
-excerpt: "What I'm reading, making, and what’s up next.”
+excerpt: "What I'm reading, making, and what’s up next."
 ---
 
 Getting closer to summer and lots going on!
