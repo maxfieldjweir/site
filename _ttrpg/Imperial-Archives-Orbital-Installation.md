@@ -9,9 +9,9 @@ tagline: "A rules-light 40k fan game you can download for free, non-commercial."
 blurb: "A 132-page tabletop RPG of investigation in the Warhammer 40k universe, Liminal Horror rules. Includes player manuals, character sheets, and clue handouts"
 cover: /assets/images/IA-OI/IA-OI-FM-social-picture-full-small.png
 links:
-  - { label: "Download Files",   url: "https://drive.google.com/drive/folders/1QVkdDFDnGq9AHwVVVoOq48T3OyvbBKRB?usp=sharing",                      featured: true }
-  - { label: "DriveThruRPG", url: "https://www.drivethrurpg.com/" }
-  - { label: "itch.io",      url: "https://itch.io/" }
+  - { label: "itch.io",      url: "https://itch.io/", featured: true }
+  - { label: "Download Files",   url: "https://drive.google.com/drive/folders/1QVkdDFDnGq9AHwVVVoOq48T3OyvbBKRB?usp=sharing" }
+
 ---
 
 ![Cover art of the Facilitator Manual]({{ '/assets/images/IA-OI-Facilitator.svg' | relative_url }})
