@@ -6,7 +6,7 @@ year: 2026
 status: "In progress"
 players: "2–6"
 tagline: "A cosmic horror adventure set in 1930s Faroe Islands."
-blurb: "*The Mansion of Maroy* is a four act narrative cosmic horror tabletop RPG. It is built up from the Liminal Horror core ruleset for streamlined gameplay, with changes to stress and fallout mechanics that allow for different play styles, as well as a factional system with different endings. Set in the remote Faroe Islands during 1935, players explore a cursed island of cultists praying to a God whose dreams are being made real. Players will experience an epic journey into the unknown, where it isn't about how you lose sanity, but how you wield the weird."
+blurb: "The Mansion of Maroy is a four act narrative cosmic horror tabletop RPG. It is built up from the Liminal Horror core ruleset for streamlined gameplay, with changes to stress and fallout mechanics that allow for different play styles, as well as a factional system with different endings. Set in the remote Faroe Islands during 1935, players explore a cursed island of cultists praying to a God whose dreams are being made real. Players will experience an epic journey into the unknown, where it isn't about how you lose sanity, but how you wield the weird."
 cover: /assets/images/ttrpg-placeholder.svg
 links:
   - { label: "(TBD)", url: "#",                                       featured: true }
