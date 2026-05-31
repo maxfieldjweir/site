@@ -20,7 +20,9 @@ The reason I'm excited to make it is that I'll try to offer fans of historical c
 
 I'm also excited to work with some people who've offered their support on the art and visual design, which will draw inspiration from the likes of Elinborg Lützen, Käthe Kollwitz, Frans Masereel, Lynd Ward, and Rockwell Kent.
 
-In between this, I will try and port Imperial Archives into another setting I've been working on, so it can be something I can fully stand behind.
+In between this, I will try and port Imperial Archives into another setting I've been working on, so it can be something I can fully stand behind. 
+
+---
 
 { src: /assets/images/post-images/2026-05/Elinborg-Uti-i-Klaksvik.jpeg, alt: "Elinborg Lützen - Uti í Klaksvík", caption: "Elinborg Lützen, Uti í Klaksvík, [Listasavn](https://art.fo/collection?Id=216), Tórshavn, Faroe Islands." }
 
