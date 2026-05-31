@@ -6,7 +6,7 @@ category: updates
 excerpt: "The next project after Imperial Archives."
 ---
 
-I spent 6 months creating Imperial Archives, learning about TTRPG designing and Affinity Publisher 2. It taught me a lot about my own creative practice, but also realising that I can make this kind of stuff.
+I spent 6 months creating Imperial Archives, learning about TTRPG designs and using Affinity Publisher 2. It taught me a lot about my own creative practice, but also made me realise that I can make this kind of stuff.
 
 Now that it's [done and on Itch.io for free](https://maxfieldjweir.itch.io/imperial-archives-orbital-installation) I'm moving onto *The Mansion of Maroy*, a nightmare-horror adventure set in the Faroe Islands.
 
@@ -24,12 +24,27 @@ In between this, I will try and port Imperial Archives into another setting I've
 
 ---
 
-  - { src: /assets/images/post-images/2026-05/Elinborg-Uti-i-Klaksvik.jpeg, alt: "Elinborg Lützen - Uti í Klaksvík", caption: "Elinborg Lützen, Uti í Klaksvík, [Listasavn](https://art.fo/collection?Id=216), Tórshavn, Faroe Islands." }
+<figure>
+  <img src="/assets/images/post-images/2026-05/Elinborg-Uti-i-Klaksvik.jpeg" alt="Elinborg Lützen - Uti í Klaksvík">
+  <figcaption>Elinborg Lützen, <em>Uti í Klaksvík</em>. <a href="https://art.fo/collection?Id=216">Listasavn</a>, Tórshavn, Faroe Islands.</figcaption>
+</figure>
 
-  - { src: /assets/images/post-images/2026-05/Kollwitz-woman.jpg, alt: "Käthe Kollwitz - Working Woman (with Earring)", caption: "Working Woman (with Earring), 1910. Brooklyn Museum." }
+<figure>
+  <img src="/assets/images/post-images/2026-05/Kollwitz-woman.jpg" alt="Käthe Kollwitz - Working Woman (with Earring)">
+  <figcaption>Käthe Kollwitz, <em>Working Woman (with Earring)</em>, 1910. Brooklyn Museum.</figcaption>
+</figure>
 
-  - { src: /assets/images/post-images/2026-05/Filleaupieddunarbre_03.jpg, alt: "Frans Masereel - Girl at the foot of a tree", caption: "Frans Masereel, Girl at the foot of a tree, 1925." }
+<figure>
+  <img src="/assets/images/post-images/2026-05/Filleaupieddunarbre_03.jpg" alt="Frans Masereel - Girl at the foot of a tree">
+  <figcaption>Frans Masereel, <em>Girl at the foot of a tree</em>, 1925.</figcaption>
+</figure>
 
-  - { src: /assets/images/post-images/2026-05/Ward-Lynd-Weeding.jpg, alt: "Lynd Ward - Weeding", caption: "Lynd Ward, Weeding, 1954." }
+<figure>
+  <img src="/assets/images/post-images/2026-05/Ward-Lynd-Weeding.jpg" alt="Lynd Ward - Weeding">
+  <figcaption>Lynd Ward, <em>Weeding</em>, 1954.</figcaption>
+</figure>
 
-  - { src: /assets/images/post-images/2026-05/rockwell-graves.jpg, alt: "Rockwell Kent - Christian Graves, Greenland", caption: "Rockwell Kent, Christian Graves, Greenland, 1929." }
+<figure>
+  <img src="/assets/images/post-images/2026-05/rockwell-graves.jpg" alt="Rockwell Kent - Christian Graves, Greenland">
+  <figcaption>Rockwell Kent, <em>Christian Graves, Greenland</em>, 1929.</figcaption>
+</figure>
