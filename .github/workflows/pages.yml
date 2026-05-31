@@ -1,11 +1,10 @@
 # Build and deploy the Jekyll site to GitHub Pages.
 #
-# This workflow replaces GitHub's legacy "Deploy from a branch" mode (which uses
-# the ancient `github-pages` gem) with a modern Jekyll 4 build pipeline.
+# Replaces the legacy "Deploy from a branch" path (which uses the ancient
+# `github-pages` gem on Ruby 3.1) with a modern Jekyll 4 build on Ruby 3.3.
 #
-# One-time setup in the repo: Settings → Pages → Build and deployment →
-#   Source: GitHub Actions
-#
+# One-time setup in the repo:
+#   Settings → Pages → Build and deployment → Source: GitHub Actions
 # After that, every push to `main` triggers this workflow.
 
 name: Deploy site to Pages
@@ -13,17 +12,13 @@ name: Deploy site to Pages
 on:
   push:
     branches: [main]
-  # Allow manual runs from the Actions tab.
   workflow_dispatch:
 
-# Permissions the deploy job needs to publish to Pages.
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Allow only one Pages deploy at a time. Don't cancel in-progress runs —
-# we want each push to finish so the user gets feedback.
 concurrency:
   group: pages
   cancel-in-progress: false
@@ -39,7 +34,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3"
-          bundler-cache: true   # caches gems between runs
+          bundler-cache: true
 
       - name: Configure Pages
         id: pages
@@ -52,7 +47,6 @@ jobs:
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-        # Defaults to uploading ./_site, which is exactly what `jekyll build` writes.
 
   deploy:
     needs: build
