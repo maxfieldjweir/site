@@ -24,12 +24,12 @@ In between this, I will try and port Imperial Archives into another setting I've
 
 ---
 
-{ src: /assets/images/post-images/2026-05/Elinborg-Uti-i-Klaksvik.jpeg, alt: "Elinborg Lützen - Uti í Klaksvík", caption: "Elinborg Lützen, Uti í Klaksvík, [Listasavn](https://art.fo/collection?Id=216), Tórshavn, Faroe Islands." }
+  - { src: /assets/images/post-images/2026-05/Elinborg-Uti-i-Klaksvik.jpeg, alt: "Elinborg Lützen - Uti í Klaksvík", caption: "Elinborg Lützen, Uti í Klaksvík, [Listasavn](https://art.fo/collection?Id=216), Tórshavn, Faroe Islands." }
 
-{ src: /assets/images/post-images/2026-05/Kollwitz-woman.jpg, alt: "Käthe Kollwitz - Working Woman (with Earring)", caption: "Working Woman (with Earring), 1910. Brooklyn Museum." }
+  - { src: /assets/images/post-images/2026-05/Kollwitz-woman.jpg, alt: "Käthe Kollwitz - Working Woman (with Earring)", caption: "Working Woman (with Earring), 1910. Brooklyn Museum." }
 
-{ src: /assets/images/post-images/2026-05/Filleaupieddunarbre_03.jpg, alt: "Frans Masereel - Girl at the foot of a tree", caption: "Frans Masereel, Girl at the foot of a tree, 1925." }
+  - { src: /assets/images/post-images/2026-05/Filleaupieddunarbre_03.jpg, alt: "Frans Masereel - Girl at the foot of a tree", caption: "Frans Masereel, Girl at the foot of a tree, 1925." }
 
-{ src: /assets/images/post-images/2026-05/Ward-Lynd-Weeding.jpg, alt: "Lynd Ward - Weeding", caption: "Lynd Ward, Weeding, 1954." }
+  - { src: /assets/images/post-images/2026-05/Ward-Lynd-Weeding.jpg, alt: "Lynd Ward - Weeding", caption: "Lynd Ward, Weeding, 1954." }
 
-{ src: /assets/images/post-images/2026-05/rockwell-graves.jpg, alt: "Rockwell Kent - Christian Graves, Greenland", caption: "Rockwell Kent, Christian Graves, Greenland, 1929." }
+  - { src: /assets/images/post-images/2026-05/rockwell-graves.jpg, alt: "Rockwell Kent - Christian Graves, Greenland", caption: "Rockwell Kent, Christian Graves, Greenland, 1929." }
